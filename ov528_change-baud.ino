@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include <SPI.h>
 
 #define CAM_ADDR       0
 #define CAM_SERIAL     Serial1
